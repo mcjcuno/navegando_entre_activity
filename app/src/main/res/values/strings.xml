@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practicas datos entre acty calcular area</string>
+
+    <string name="area_r">area r</string>
+    <string name="area_t">area t</string>
+    <string name="ingrese_base">ingrese base</string>
+    <string name="ingrese_altura">Ingrese altura</string>
+</resources>
